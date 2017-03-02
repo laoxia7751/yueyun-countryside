@@ -1,0 +1,9 @@
+/*岳云乡村样式调整*/
+
+/*2017-03-02*/
+/*首页样式*/
+.yy-index-top li>a{display: flex;justify-content: center;align-items: center;color:#333;}
+.yy-index-top li{padding-left: 1.6rem;}
+.yy-index-top li:nth-child(1){padding-left: 0rem;}
+.yy-index-top li h4{margin:0 0 0 10px;display: inline-block;width:50%;font-weight: 400;}
+.yy-index-top li h4 p{margin:5px 0;}
